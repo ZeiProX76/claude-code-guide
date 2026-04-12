@@ -60,6 +60,15 @@ One-time purchase. No subscriptions. From idea to SaaS in 48 hours.
 
 [Learn more at buildthisnow.com](https://www.buildthisnow.com)
 
+## Related Repos
+
+| Repo | Description |
+|------|-------------|
+| [Claude Code Best Practices](https://github.com/ZeiProX76/claude-code-best-practices) | Battle-tested tips distilled into actionable checklists |
+| [Claude Hooks Cookbook](https://github.com/ZeiProX76/claude-hooks-cookbook) | Recipes for automating Claude Code with lifecycle hooks |
+| [AI Agent Patterns](https://github.com/ZeiProX76/ai-agent-patterns) | Design patterns for multi-agent orchestration |
+| [SaaS Starter Playbook](https://github.com/ZeiProX76/saas-starter-playbook) | From idea to live SaaS product, step by step |
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
